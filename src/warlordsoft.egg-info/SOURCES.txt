@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/warlordsoft/__init__.py
+src/warlordsoft/main.py
+src/warlordsoft.egg-info/PKG-INFO
+src/warlordsoft.egg-info/SOURCES.txt
+src/warlordsoft.egg-info/dependency_links.txt
+src/warlordsoft.egg-info/top_level.txt
